@@ -18,4 +18,4 @@
          <li><a href='tutoria.html">melhor qualidade</a></li>
        <?ul>
     </nav>
-            
+vendo as melhores camisetas de time da região localizado no centro da cidade de paulo frontin. a loja que chegou com a missão de disponibilizar camisetas de times com muita qualidade venham conferir nossos produtos. oferecemos 15% de desconto na primeira compra, temos profissionais para melhor atender nossa clientela    
