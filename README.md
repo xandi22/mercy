@@ -1,4 +1,21 @@
 # mercy
-<p>vendo as melhores camiseta de time da regiao
-localozado no centro da cidada de Paulo Frontin. a loja que chegou com a missao de disponbilizar camisetas de time com muita qualidade 
-venham conferir nossos produtos.oferecemos 15% de desconto na primeira compra, temos profisssionais para melhor atender nossa clientela</p>
+<!DOCTYPE html>
+<html lang="pt" dir="ltf">
+  <head>
+    <meta charset=utf,8">
+    <title>top car</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <img src="
+    <nav>
+       <ul>
+         <li><a href="index.html">top car</a></li>
+         <li><a href="about.html">temos descontos que cabem no seu bolso</a><
+         li><a href="inscricão.html">financiamos</a><
+         <li>carros</li>
+         <li><a href='tutoria.html">melhor qualidade</a></li>
+       <?ul>
+    </nav>
+            
